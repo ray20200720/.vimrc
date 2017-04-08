@@ -9,6 +9,7 @@ syntax on
 
 " in insert mode key { auto completed { } for C 
 imap { {<CR><CR>}<Esc>b 
+"inoremap { {<CR><CR>}<Esc>b 
 
 "in insert mode for python"
 inoremap ( ()<Esc>i
@@ -16,3 +17,4 @@ inoremap [ []<Esc>i
 inoremap { {}<Esc>i
 inoremap ' ''<Esc>i
 inoremap " ""<Esc>i
+
