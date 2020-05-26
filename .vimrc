@@ -1,5 +1,5 @@
 set nu
-set tb=4
+set ts=4
 
 "For Windows GVim"
 set guifont=Consolas:h12  
