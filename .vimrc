@@ -8,7 +8,7 @@ colorscheme darblue
 syntax on
 
 " in insert mode key { auto completed { } for C 
-imap { {<CR><CR>}<Esc>b 
+imap { {<CR><CR>}<Esc>bi<Tab>
 "inoremap { {<CR><CR>}<Esc>b 
 
 "in insert mode for python"
