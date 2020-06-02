@@ -1,5 +1,6 @@
 set nu
 set ts=4
+set hlsearch
 
 "For Windows GVim"
 set guifont=Consolas:h12  
